@@ -1,5 +1,3 @@
 ### Vjezba 1
 
-Testiranje ispravnosti na udaljenom GIT-u.
-
-dsada
+Repozirorij za kolegij "Web aplikacije".
